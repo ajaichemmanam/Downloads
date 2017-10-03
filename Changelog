@@ -1,0 +1,9 @@
+***********Changelog******************
+
+---Emovere 2.3.0.0---
+Initial Github Upload
+
+---Emovere 2.3.1.0---
+Added ToolTips for button
+Removed Auto Start capturing
+Added a delay of 100ms between Person Identification Checks
